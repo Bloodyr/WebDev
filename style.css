@@ -1,0 +1,128 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+h1 {
+  line-height: 30px;
+  font-size: 30px;
+  width: 140px;
+  height: 0px;
+  padding: 15px 0px 15px;
+}
+
+p {
+  line-height: 19px;
+  width: 140px;
+  padding: 0px 380px 0px;
+  color: black;
+}
+
+selector {
+  border: 5px solid orange;
+}
+
+selector {
+  margin-right: 10px;
+  vertical-align: top;
+  border-radius: 20px;
+}
+
+section {
+  padding: 55px 20px 75px;
+  font-size: 20px;
+  height: 180px;
+  background-color: #1111;
+  text-align: center;
+  white-space: normal;
+  tab-size: 10px;
+}
+h3 {
+  width: 100%;
+  text-align: center;
+  font-size: 20px;
+  padding: 0px 0px 10px;
+}
+r {
+  font-size: 15px;
+  display: inline-block;
+  vertical-align: top;
+  width: 24%;
+  text-align: center;
+  color: black;
+}
+h4 {
+ text-align: center;
+  color: black;
+  font-size: 20px;
+  padding: 20px 0px 0px;
+}
+f {
+  display: inline-block;
+  vertical-align: top;
+  width: 19%;
+  text-align: center;
+  color: black;
+  font-size: 20px;
+  padding: 20px 0px 5px;
+}
+h5 {
+  text-align: center;
+  color: grey;
+  font-size: 15px;
+  white-space: normal;
+  tab-size: 10px;
+  width: 100%;
+  padding: 20px 0px 20px;
+}
+button {
+  text-align: center;
+  font-size: 14px;
+  width: 140px;
+  height: 30px;
+  color: white;
+  background: black;
+  border-radius: 15px;
+  margin:auto;
+  display:block;
+}
+border {
+  border-bottom: 2px solid #000000;
+  padding: 0px 0px 10px;
+}
+section2 {
+  width: 100%;
+  padding: 15px 0px 250px;
+  font-size: 20px;
+  background-color: #1111;
+  text-align: center;
+  tab-size: 10px;
+  width: 100%;
+}
+section3 {
+  width: 100%;
+  padding:88px 0px 250px;
+  font-size: 20px;
+  background-color: #1111;
+  text-align: center;
+  tab-size: 10px;
+  width: 100%;
+}
+section4 {
+  width: 100%;
+  padding: 65px 00px 350px;
+  font-size: 20px;
+  background-color: #1111;
+  text-align: center;
+  tab-size: 10px;
+  width: 100%;
+}
+h6 {
+  text-align: center;
+  font-size: 18px;
+  text-decoration: underline;
+  padding: 20px 0px 20px;
+}
